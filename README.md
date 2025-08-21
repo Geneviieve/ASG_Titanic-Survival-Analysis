@@ -1,4 +1,4 @@
-# ASG-Titanic-Survival-Analysis
+# ASG | Titanic Survival Analysis
 Introductory case study on data analysis and preprocessing using the classic Titanic dataset.
 
 

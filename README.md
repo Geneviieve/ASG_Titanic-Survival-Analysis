@@ -37,3 +37,5 @@ The visualizations led to several key insights:
 - Matplotlib & Seaborn: for data visualization.
 - Scikit-learn: for data preprocessing (LabelEncoder, MinMaxScaler).
 - Jupyter Notebook as the working environment.
+
+view the Titanic Survival Prediction here: https://github.com/Geneviieve/ASG_Titanic-Survival-Prediction
